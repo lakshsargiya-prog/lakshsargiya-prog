@@ -1,16 +1,57 @@
-## Hi there 👋
+👋 Hi, I'm Laksh Sargiya
 
-<!--
-**lakshsargiya-prog/lakshsargiya-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I enjoy building practical projects and exploring
+software development, databases and AI/ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━
+
+🛠️ TECH STACK
+
+Python
+C++
+Java
+SQL
+
+Pandas
+NumPy
+Matplotlib
+Scikit-learn
+
+Git
+GitHub
+Arduino
+
+━━━━━━━━━━━━━━━━━━━━
+
+🚀 FEATURED PROJECTS
+
+📧 Email Spam Detector
+📚 Library Management System
+🧠 DSA in C++
+🚗 Smart Voice Control Car
+🔐 Smart Laser Security System
+
+━━━━━━━━━━━━━━━━━━━━
+
+📚 CURRENTLY LEARNING
+
+• Data Structures & Algorithms
+• DBMS
+• Object-Oriented Programming
+• Backend Development
+• Machine Learning
+
+━━━━━━━━━━━━━━━━━━━━
+
+🎯 GOAL
+
+Become a strong software engineer by building
+real-world projects and continuously learning.
+
+━━━━━━━━━━━━━━━━━━━━
+
+📫 CONNECT WITH ME
+
+LinkedIn | GitHub
